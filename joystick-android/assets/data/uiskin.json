@@ -1,0 +1,9 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Touchpad$TouchpadStyle: {
+	default: { background: default-bgtouch, knob: default-round-large }
+},
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	default: { up: default-pewpewup, down: default-pewpewdown },
+	circleshot: { up: default-circleshoot, down: default-circleshoot }
+}
+}

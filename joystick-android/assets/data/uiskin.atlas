@@ -1,0 +1,46 @@
+uiskin.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+default
+  rotate: false
+  xy: 1, 50
+  size: 254, 77
+  orig: 254, 77
+  offset: 0, 0
+  index: -1
+default-round-large
+  rotate: false
+  xy: 0, 0
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+default-bgtouch
+  rotate: false
+  xy: 138, 5
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+default-pewpewup
+  rotate: false
+  xy: 1, 69
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+default-pewpewdown
+  rotate: false
+  xy: 61, 69
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+default-circleshoot
+  rotate: false
+  xy: 61, 0
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
